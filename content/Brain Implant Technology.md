@@ -1,4 +1,3 @@
-# Brain Implant Technology 
 
 J. C. R. [[Licklider]]’s Man-Computer Symbiosis is an important early contribution to the development of artificial intelligence because it reimagines the relationship between humans and machines. Licklider predicts that computers will form a symbiotic partnership, combining human thought and machine processing. This idea helped shape the direction of modern AI, as research becomes more collaboration based, and brain implant technology is being tested on humans. With the invention of the Utah Array, and more recently Neuralink, the theory of man-computer symbiosis becomes a reality, collapsing the boundary between human thought and machine processing
 
