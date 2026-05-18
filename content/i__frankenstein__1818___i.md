@@ -1,0 +1,28 @@
+# <i> Frankenstein (1818) <i>
+
+In 1818, Mary Shelley published her novel <i>Frankenstein<i>, a novel that questions artificial creation, scientific ambition, and the limits of intellectual mastery. While the novel is often categorized as science fiction, Frankenstein also brings an AI interpretation contribution because it anticipates modern debates about intelligence, embodiment, and emotion; the novel argues whether or not intelligence can be meaningful without emotional attachment. By analyzing Shelley alongside Antonio Damasio’s work, <i>Descartes Error<i>, we can see that AI is not just a modern technological development, it is a continuation of a centuries-long philosophical struggle over the relationship between reason and emotion. Through Victor Frankenstein, Shelley shows us that intelligence separated from emotions doesn’t become progress but instead a catastrophic disaster. She shows this by writing “The different accidents of life are not so changeable as the feelings of human nature.” (Shelley 45) By using the word “accidents”, she refers to external circumstances like status, technology, and even scientific advancement. Even though these commodities may change over time, Shelley insists that the emotional structure of human nature is what remains constant. This line critiques Enlightenment ideals of rational progress. Victor believes that knowledge grants him mastery over life and human nature; he imagines scientific discovery as a triumph of reason over nature. Yet the moment that his creation succeeds, he is disgusted and taken aback. His reaction exposes his miscalculation; he has engineered life without considering the emotional and ethical consequences of creation, like creators with AI. His failure is not intellectual incompetence but emotional collapse. Shelley uses Victor Frankenstein as an early warning about disembodied intelligence — an intelligence capable of calculation but incapable of emotional and ethical responsibility. 
+In 1994, nearly two centuries later, Andrew Damasio critiques this same ideology in <i>Descartes Error<i>. He challenges the Cartesian idea of separating mind and body. He argues that “it is not only the separation between mind and brain that is mythical: the separation between mind and body is probably just as fictional.” (Damasio 118) More specifically, he contends that emotion is not opposed to reason but it is essential to it by saying “the absence of emotion and feeling is no less damaging, no less capable of compromising the rationality that makes us distinctively human.” (Damasio 7) Victor embodies what Damasio later describes as the danger of attempting reason without emotional integration. Damaging studies have shown that patients who experience damage to their emotional processing part in their brains and found that these patients still retain high IQ and logical reasoning but lose the ability to feel emotions which results in severely flawed decision-making, social dysfunction, and the inability to plan for the future. He concludes that “reduction in emotion may constitute an equally important source of irrational behavior. The counterintuitive connection between absent emotion and warped behavior may tell us something about the biological machinery of reason.” (Damasio 54) Victor mirrors these case studies; his intellectual brilliance does not prevent bad decisions, and his failure to process guilt, responsibility, and empathy leads to destruction. His obsessions with mastering intelligence suppress moral reflection until it is too late to realize. 
+By using Victor Frankenstein, Shelley shows that the core problem of AI is whether cognition can exist without emotion. AI today often operates through computational logic that is detached from lived emotional experiences. Shelley’s novel asks what happens when intelligence is severed from emotions. Damasio’s findings suggest that such severance is not only philosophically troubling but biologically incoherent. Including Frankenstein, specifically Victor Frankenstein, on our AI timelines shows that AI has been around longer than we initially thought. Rather than showing AI as a linear technological process, Frankenstein shows how AI has been an ongoing debate about how reason, emotion, and responsibility lie on each other. Shelley’s insight that emotional foundations persist despite technological changes challenges the assumption that innovation automatically equals advancement. Victor achieves a scientific breakthrough, but without emotional integration, that breakthrough becomes a tragedy. By talking about <i>Frankenstein<i>in relation to <i>Descartes Error<i>, we can see that what appears to be technologically new, like AI, reactivates century-old concerns about the limits of rationality. AI may simulate reasoning but, as both Shelley and Damasio suggest, intelligence without emotions risks repeating Victor’s mistake. 
+
+Works Cited
+
+Shelley, Mary. <i>Frankenstein: The 1818 Text.<i>1818. New York, Penguin Random House, 2018.
+
+Damasio, Antonio R. <i>Descartes Error: Emotion, Reason and the Human Brain.<i> London, Vintage Books, 1994.
+
+---
+
+**Year:** 1818.0
+
+**Month:** 2026.0
+
+**Display Date:** Liz Martin
+
+**Media:** https://www.nakatomiinc.com/cdn/shop/files/BW-FeaturesasBeautiful1.jpg?v=1715119954&width=2048
+
+**Media Credit:** https://www.nakatomiinc.com/
+
+**Media Caption:** Mary Wollstonecraft Shelley, and Berni Wrightson. Frankenstein or the Modern Prometheus.
+
+**Alt Text:** Black and white drawing of Victor Frankenstein and the Creature. Shows them sitting in Victor's laboratory, Victor looking at his creation. 
+

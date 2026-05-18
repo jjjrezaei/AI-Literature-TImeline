@@ -1,0 +1,30 @@
+# <i>Black Mirror</i>: "Be Right Back"
+
+<p><em>Black Mirror</em> is a British science fiction anthology series produced and written by Charlie Brooker with its first series having premiered in December 2011. The series is inspired by Rod Serling's <em>The Twilight Zone</em> and uses the themes of technology and media and its side-effects to comment on contemporary social issues. Its second series premiered on February 11th, 2013, and consists of three episodes: "Be Right Back," "White Bear," and "The Waldo Moment." This entry will focus on the one of the episodes of this series, which is "Be Right Back."</p>
+<p>"Be Right Back" follows the grieving widow Martha, who is enrolled by her friend Sara in a service that allows her to communicate with an artificial intelligence that mimics a deceased loved one. The AI mimics her husband Ash, who was killed in a car accident. With the episode revolving around "grief and how people deal with it in different ways" (Owen), "Be Right Back" is an important addition to the timeline because it brings Mary Shelley's question of what makes someone "human" to the present day and spins it into a more technological version: <em>is our digital presence, like our body parts, a good indicator of our humanity, or is it something else?</em></p>
+<p>The episode is likened to Mary Shelley's 1818 novel <em>Frankenstein</em>, as Richard Hand of <em>The Conversation</em> calls it a "clever reworking" of said novel and compares the artificial version of Ash to Frankenstein's creature: "Despite his superficial perfection, ... the resurrected figure – like Frankenstein’s creature – can never be human." (Hand) As Martha interacts with the artificial Ash---first through instant messaging, then video calls, then a physical android of Ash---she realizes that while it can emulate Ash's personality and speech quirks, it cannot actually feel or have real emotions/reactions towards all kinds of situations like humans can. Its personality is based entirely on his social media presence, as Sara states: "It's software. It mimics him. You give it someone's name, it goes back, and reads through all the things they've ever said online ... If you like it, you then give it access to his private emails. The more it has, the more it's him." (Harris 12:19-43)</p>
+<p>Like Frankenstein's creature, the artificial Ash is similarly created from the remains and leftovers from deceased people. There is a very important difference between the two: while Frankenstein's creature is made from the body parts of different humans, the technology behind the AI clones takes "all the things [the deceased has] ever said online: their Facebook updates, their Tweets, [and] anything public" to create an imitation of said loved one. As Richard Hand claims, this difference matters because "the digital presence which surrounds us is no more the vital essence of humanity than Frankenstein’s assemblage of body parts." (Hand) This implies that Frankenstein's collection of "body parts" hold some degree of humanity over the "digital presence" of a person. As stated before, the Ash replica downloads all of the real Ash's social media presence to "mimic" his personality. Martha has to continually remind it of the quirks the real Ash had, because she didn't give it access to his "private emails" for it to behave more like him. Moreover, unlike Frankenstein's creature, who is made from human parts and can feel things a normal human would such as love, pain, and emotions and learn about its surroundings, the replica doesn't have the ability to fight back or experience pain, positive/negative emotions, or bodily needs, but it can simulate them, to Martha's horror. Humanity cannot be measured on one's "digital presence" alone. Without the human parts that constitute that presence, it is "no more the vital essence of humanity than ... assemblage of body parts." (Hand)</p>
+<p>In conclusion, Black Mirror's "Be Right Back" episode addresses Mary Shelley's question of what makes us human and updates it to assert that the digital presence of a person cannot be that "vital essence of humanity" any more than a collection of body parts. While AI chatbots can be fed information to act like humans and have conversations like humans would, they still lack the fundamentals of what makes something a human. There is no history to the Ash clone, according to Martha in <a href="https://youtu.be/AWf5Rd8x7Qc">the episode's climax</a>, as it is "just a performance of stuff that [Ash] performed without thinking, and it's not enough." (Harris 45:08) He may seem identical to Ash, but what it lacks---the ability to feel and have real emotions and reactions toward all kinds of situations, as well as the imperfections that makes someone a human---makes it far from human. It can only simulate, and when it does, it only comes off as unnatural. In the end, Martha cannot bring herself to get rid of the Ash clone, so she stores it in the attic along with other memorabilia because she is no closer to coping with his death.</p>
+<h2 class="wp-block-heading">Works Cited</h2>
+<p>"Be Right Back."&nbsp;<em>Black Mirror</em>, written by Charlie Brooker, directed by Owen Harris, Netflix, 2013.</p>
+<p>Hand, Richard. “How Black Mirror combines a disturbing future with a familiar past.”<em>The Conversation</em>, https://www.theconversation.com/how-black-mirror-combines-a-disturbing-future-with-a-familiar-past-90659.</p>
+<p>Owen, Luke. "Black Mirror Season 2 - Episode 1 Review". <em>Flickering Myth, </em>https://www.flickeringmyth.com/black-mirror-season-2-episode-1-review.</p>
+
+---
+
+**Year:** 2013.0
+
+**Month:** 2.0
+
+**Day:** 11.0
+
+**Display Date:** Jesmond Phimmachack
+
+**Media:** https://upload.wikimedia.org/wikipedia/en/9/97/Be_Right_Back.jpg
+
+**Media Credit:** Image from https://en.wikipedia.org/wiki/Be_Right_Back
+
+**Media Caption:** A scene from "Be Right Back", an episode of 2010s anthology series Black Mirror, in which Martha (right) touches hands with a synthetic replacement for her deceased boyfriend Ash (left).
+
+**Group:** Technology
+
